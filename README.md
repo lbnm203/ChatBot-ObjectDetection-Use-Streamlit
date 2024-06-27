@@ -23,8 +23,8 @@ To run these applications locally, follow these steps:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/lbnm203/ChatBot-ObjectDetection-Streamlit.git
-cd ChatBot-ObjectDetection-Streamlit/source
+git clone https://github.com/lbnm203/ChatBot-ObjectDetection-wStreamlit.git
+cd ChatBot-ObjectDetection-wStreamlit/source
 ```
 
 2. Install the required dependencies:
